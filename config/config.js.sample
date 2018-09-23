@@ -1,0 +1,4 @@
+module.exports = {
+  truffleBuildPath: 'POKEMON_ERC721_BUILD_FOLDER',
+  networkId: 47,
+}
