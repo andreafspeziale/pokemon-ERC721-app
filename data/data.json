@@ -1,0 +1,908 @@
+{
+  "1": {
+    "name": "Bulbasaur",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/1.png",
+    "meta": "http://localhost:3000/api/pokemons/1/meta"
+  },
+  "2": {
+    "name": "Ivysaur",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/2.png",
+    "meta": ""
+  },
+  "3": {
+    "name": "Venusaur",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/3.png",
+    "meta": ""
+  },
+  "4": {
+    "name": "Charmender",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/4.png",
+    "meta": ""
+  },
+  "5": {
+    "name": "Charmeleon",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/5.png",
+    "meta": ""
+  },
+  "6": {
+    "name": "Charizard",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/6.png",
+    "meta": ""
+  },
+  "7": {
+    "name": "Squirtle",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/7.png",
+    "meta": ""
+  },
+  "8": {
+    "name": "Wartortle",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/8.png",
+    "meta": ""
+  },
+  "9": {
+    "name": "Blastoise",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/9.png",
+    "meta": ""
+  },
+  "10": {
+    "name": "Caterpie",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/10.png",
+    "meta": ""
+  },
+  "11": {
+    "name": "Metapod",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/11.png",
+    "meta": ""
+  },
+  "12": {
+    "name": "Butterfree",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/12.png",
+    "meta": ""
+  },
+  "13": {
+    "name": "Weedle",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/13.png",
+    "meta": ""
+  },
+  "14": {
+    "name": "Kakuna",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/14.png",
+    "meta": ""
+  },
+  "15": {
+    "name": "Beedrill",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/15.png",
+    "meta": ""
+  },
+  "16": {
+    "name": "Pidgey",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/16.png",
+    "meta": ""
+  },
+  "17": {
+    "name": "Pidgeotto",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/17.png",
+    "meta": ""
+  },
+  "18": {
+    "name": "Pidgeot",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/18.png",
+    "meta": ""
+  },
+  "19": {
+    "name": "Rattata",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/19.png",
+    "meta": ""
+  },
+  "20": {
+    "name": "Raticate",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/20.png",
+    "meta": ""
+  },
+  "21": {
+    "name": "Spearow",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/21.png",
+    "meta": ""
+  },
+  "22": {
+    "name": "Fearow",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/22.png",
+    "meta": ""
+  },
+  "23": {
+    "name": "Ekans",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/23.png",
+    "meta": ""
+  },
+  "24": {
+    "name": "Arbok",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/24.png",
+    "meta": ""
+  },
+  "25": {
+    "name": "Pikachu",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/25.png",
+    "meta": ""
+  },
+  "26": {
+    "name": "Raichu",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/26.png",
+    "meta": ""
+  },
+  "27": {
+    "name": "Sandshrew",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/27.png",
+    "meta": ""
+  },
+  "28": {
+    "name": "Sandlash",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/28.png",
+    "meta": ""
+  },
+  "29": {
+    "name": "Nidoran",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/29.png",
+    "meta": ""
+  },
+  "30": {
+    "name": "Nidorina",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/30.png",
+    "meta": ""
+  },
+  "31": {
+    "name": "Nidoqueen",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/31.png",
+    "meta": ""
+  },
+  "32": {
+    "name": "Nidoran",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/32.png",
+    "meta": ""
+  },
+  "33": {
+    "name": "Nidorino",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/33.png",
+    "meta": ""
+  },
+  "34": {
+    "name": "Nidoking",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/34.png",
+    "meta": ""
+  },
+  "35": {
+    "name": "Clefary",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/35.png",
+    "meta": ""
+  },
+  "36": {
+    "name": "Clefable",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/36.png",
+    "meta": ""
+  },
+  "37": {
+    "name": "Vulpix",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/37.png",
+    "meta": ""
+  },
+  "38": {
+    "name": "Ninetales",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/38.png",
+    "meta": ""
+  },
+  "39": {
+    "name": "Jigglypuff",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/39.png",
+    "meta": ""
+  },
+  "40": {
+    "name": "Wigglytuff",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/40.png",
+    "meta": ""
+  },
+  "41": {
+    "name": "Zubat",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/41.png",
+    "meta": ""
+  },
+  "42": {
+    "name": "Golbat",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/42.png",
+    "meta": ""
+  },
+  "43": {
+    "name": "Oddish",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/43.png",
+    "meta": ""
+  },
+  "44": {
+    "name": "Gloom",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/44.png",
+    "meta": ""
+  },
+  "45": {
+    "name": "Vileplume",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/45.png",
+    "meta": ""
+  },
+  "46": {
+    "name": "Paras",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/46.png",
+    "meta": ""
+  },
+  "47": {
+    "name": "Parasect",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/47.png",
+    "meta": ""
+  },
+  "48": {
+    "name": "Venonat",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/48.png",
+    "meta": ""
+  },
+  "49": {
+    "name": "Venomoth",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/49.png",
+    "meta": ""
+  },
+  "50": {
+    "name": "Diglett",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/50.png",
+    "meta": ""
+  },
+  "51": {
+    "name": "Dugtrio",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/51.png",
+    "meta": ""
+  },
+  "52": {
+    "name": "Meowth",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/52.png",
+    "meta": ""
+  },
+  "53": {
+    "name": "Persian",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/53.png",
+    "meta": ""
+  },
+  "54": {
+    "name": "Psyduck",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/54.png",
+    "meta": ""
+  },
+  "55": {
+    "name": "Golduck",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/55.png",
+    "meta": ""
+  },
+  "56": {
+    "name": "Mankey",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/56.png",
+    "meta": ""
+  },
+  "57": {
+    "name": "Primeape",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/57.png",
+    "meta": ""
+  },
+  "58": {
+    "name": "Growlithe",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/58.png",
+    "meta": ""
+  },
+  "59": {
+    "name": "Arcanine",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/59.png",
+    "meta": ""
+  },
+  "60": {
+    "name": "Poliwag",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/60.png",
+    "meta": ""
+  },
+  "61": {
+    "name": "Poliwhirl",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/61.png",
+    "meta": ""
+  },
+  "62": {
+    "name": "Poliwrath",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/62.png",
+    "meta": ""
+  },
+  "63": {
+    "name": "Abra",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/63.png",
+    "meta": ""
+  },
+  "64": {
+    "name": "Kadabra",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/64.png",
+    "meta": ""
+  },
+  "65": {
+    "name": "Alakhazam",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/65.png",
+    "meta": ""
+  },
+  "66": {
+    "name": "Machop",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/66.png",
+    "meta": ""
+  },
+  "67": {
+    "name": "Machoke",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/67.png",
+    "meta": ""
+  },
+  "68": {
+    "name": "Machamp",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/68.png",
+    "meta": ""
+  },
+  "69": {
+    "name": "Bellsprout",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/69.png",
+    "meta": ""
+  },
+  "70": {
+    "name": "Weepinbell",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/70.png",
+    "meta": ""
+  },
+  "71": {
+    "name": "Victreebell",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/71.png",
+    "meta": ""
+  },
+  "72": {
+    "name": "Tentacool",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/72.png",
+    "meta": ""
+  },
+  "73": {
+    "name": "Tentacruel",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/73.png",
+    "meta": ""
+  },
+  "74": {
+    "name": "Geoduge",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/74.png",
+    "meta": ""
+  },
+  "75": {
+    "name": "Graveler",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/75.png",
+    "meta": ""
+  },
+  "76": {
+    "name": "Golem",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/76.png",
+    "meta": ""
+  },
+  "77": {
+    "name": "Ponyta",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/77.png",
+    "meta": ""
+  },
+  "78": {
+    "name": "Rapidash",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/78.png",
+    "meta": ""
+  },
+  "79": {
+    "name": "Slowpoke",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/79.png",
+    "meta": ""
+  },
+  "80": {
+    "name": "Slowbro",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/80.png",
+    "meta": ""
+  },
+  "81": {
+    "name": "Magnemite",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/81.png",
+    "meta": ""
+  },
+  "82": {
+    "name": "Magneton",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/82.png",
+    "meta": ""
+  },
+  "83": {
+    "name": "Farfetch'd",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/83.png",
+    "meta": ""
+  },
+  "84": {
+    "name": "Doduo",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/84.png",
+    "meta": ""
+  },
+  "85": {
+    "name": "Dodrio",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/85.png",
+    "meta": ""
+  },
+  "86": {
+    "name": "Seel",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/86.png",
+    "meta": ""
+  },
+  "87": {
+    "name": "Dewgong",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/87.png",
+    "meta": ""
+  },
+  "88": {
+    "name": "Grimer",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/88.png",
+    "meta": ""
+  },
+  "89": {
+    "name": "Muk",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/89.png",
+    "meta": ""
+  },
+  "90": {
+    "name": "Shellder",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/90.png",
+    "meta": ""
+  },
+  "91": {
+    "name": "Cloyster",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/91.png",
+    "meta": ""
+  },
+  "92": {
+    "name": "Gastly",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/92.png",
+    "meta": ""
+  },
+  "93": {
+    "name": "Haunter",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/93.png",
+    "meta": ""
+  },
+  "94": {
+    "name": "Gengar",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/94.png",
+    "meta": ""
+  },
+  "95": {
+    "name": "Onix",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/95.png",
+    "meta": ""
+  },
+  "96": {
+    "name": "Drowzee",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/96.png",
+    "meta": ""
+  },
+  "97": {
+    "name": "Hypno",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/97.png",
+    "meta": ""
+  },
+  "98": {
+    "name": "Krabby",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/98.png",
+    "meta": ""
+  },
+  "99": {
+    "name": "Kingler",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/99.png",
+    "meta": ""
+  },
+  "100": {
+    "name": "Voltorb",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/100.png",
+    "meta": ""
+  },
+  "101": {
+    "name": "Electrode",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/101.png",
+    "meta": ""
+  },
+  "102": {
+    "name": "Exeggcute",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/102.png",
+    "meta": ""
+  },
+  "103": {
+    "name": "Exeggutor",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/103.png",
+    "meta": ""
+  },
+  "104": {
+    "name": "Cubone",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/104.png",
+    "meta": ""
+  },
+  "105": {
+    "name": "Marowak",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/105.png",
+    "meta": ""
+  },
+  "106": {
+    "name": "Hitmonlee",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/106.png",
+    "meta": ""
+  },
+  "107": {
+    "name": "Hitmonchan",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/107.png",
+    "meta": ""
+  },
+  "108": {
+    "name": "Lickitung",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/108.png",
+    "meta": ""
+  },
+  "109": {
+    "name": "Koffing",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/109.png",
+    "meta": ""
+  },
+  "110": {
+    "name": "Weezing",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/110.png",
+    "meta": ""
+  },
+  "111": {
+    "name": "Rhyhorn",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/111.png",
+    "meta": ""
+  },
+  "112": {
+    "name": "Rhydon",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/112.png",
+    "meta": ""
+  },
+  "113": {
+    "name": "Chansey",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/113.png",
+    "meta": ""
+  },
+  "114": {
+    "name": "Tangela",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/114.png",
+    "meta": ""
+  },
+  "115": {
+    "name": "Kangaskhan",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/115.png",
+    "meta": ""
+  },
+  "116": {
+    "name": "Horsea",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/116.png",
+    "meta": ""
+  },
+  "117": {
+    "name": "Seadra",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/117.png",
+    "meta": ""
+  },
+  "118": {
+    "name": "Goldeen",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/118.png",
+    "meta": ""
+  },
+  "119": {
+    "name": "Seaking",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/119.png",
+    "meta": ""
+  },
+  "120": {
+    "name": "Staryu",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/120.png",
+    "meta": ""
+  },
+  "121": {
+    "name": "Starmie",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/121.png",
+    "meta": ""
+  },
+  "122": {
+    "name": "Mr. Mime",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/122.png",
+    "meta": ""
+  },
+  "123": {
+    "name": "Scyther",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/123.png",
+    "meta": ""
+  },
+  "124": {
+    "name": "Jynx",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/124.png",
+    "meta": ""
+  },
+  "125": {
+    "name": "Electabuzz",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/125.png",
+    "meta": ""
+  },
+  "126": {
+    "name": "Magmar",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/126.png",
+    "meta": ""
+  },
+  "127": {
+    "name": "Pinsir",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/127.png",
+    "meta": ""
+  },
+  "128": {
+    "name": "Tauros",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/128.png",
+    "meta": ""
+  },
+  "129": {
+    "name": "Magikarp",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/129.png",
+    "meta": ""
+  },
+  "130": {
+    "name": "Gyarados",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/130.png",
+    "meta": ""
+  },
+  "131": {
+    "name": "Lapras",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/131.png",
+    "meta": ""
+  },
+  "132": {
+    "name": "Ditto",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/132.png",
+    "meta": ""
+  },
+  "133": {
+    "name": "Eevee",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/133.png",
+    "meta": ""
+  },
+  "134": {
+    "name": "Vaporeon",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/134.png",
+    "meta": ""
+  },
+  "135": {
+    "name": "Jolteon",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/135.png",
+    "meta": ""
+  },
+  "136": {
+    "name": "Flareon",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/136.png",
+    "meta": ""
+  },
+  "137": {
+    "name": "Porygon",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/137.png",
+    "meta": ""
+  },
+  "138": {
+    "name": "Omanyte",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/138.png",
+    "meta": ""
+  },
+  "139": {
+    "name": "Omastar",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/139.png",
+    "meta": ""
+  },
+  "140": {
+    "name": "Kabuto",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/140.png",
+    "meta": ""
+  },
+  "141": {
+    "name": "Kabutops",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/141.png",
+    "meta": ""
+  },
+  "142": {
+    "name": "Aerodactyl",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/142.png",
+    "meta": ""
+  },
+  "143": {
+    "name": "Snorlax",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/143.png",
+    "meta": ""
+  },
+  "144": {
+    "name": "Articuno",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/144.png",
+    "meta": ""
+  },
+  "145": {
+    "name": "Zapdos",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/145.png",
+    "meta": ""
+  },
+  "146": {
+    "name": "Moltres",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/146.png",
+    "meta": ""
+  },
+  "147": {
+    "name": "Dratini",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/147.png",
+    "meta": ""
+  },
+  "148": {
+    "name": "Dragonair",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/148.png",
+    "meta": ""
+  },
+  "149": {
+    "name": "Dragonite",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/149.png",
+    "meta": ""
+  },
+  "150": {
+    "name": "MewTwo",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/150.png",
+    "meta": ""
+  },
+  "151": {
+    "name": "Mew",
+    "description": "Pokemon description",
+    "image": "http://localhost:3000/assets/images/151.png",
+    "meta": ""
+  }
+}
