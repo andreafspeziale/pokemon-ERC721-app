@@ -18,7 +18,7 @@ The *App project* contains a simple server to retrive the `Pokemon tokenURI` inf
 To quickly run the whole project
 - clone and follow the readme of the Truffle project
 - install [Metamask](https://metamask.io/) on your browser
-- connect Metamask to your local Ethereum node launched during the Truffle project setup, it should be exposed on `http://localhost:7545`
+- connect Metamask to your local Ethereum node launched during the Truffle project setup, it should be exposed on `http://127.0.0.1:7545`
 - import into Metamask (using the private keys) the local Ethereum node accounts, the most important account is the `eth.accounts[1]` (it is the receiver of all tokens)
 - clone this repository
 - `$ npm i`
