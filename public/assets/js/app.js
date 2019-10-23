@@ -182,6 +182,7 @@ window.App = {
     // TODO:
     // find a way to catch metamask switch account
     web3.eth.getAccounts((err, accs) => {
+      console.log('GET ACCOUNTS', accs)
       if (err != null) {
         alert('There was an error fetching your accounts.')
         return
@@ -198,8 +199,9 @@ window.App = {
 }
 
 window.addEventListener('load', () => {
-  if (typeof web3 !== 'undefined') {
-    window.web3 = new Web3(web3.currentProvider)
+  if (typeof window.ethereum !== 'undefined') {
+    window.web3 = new Web3(ethereum)
+    ethereum.enable()
     const http = new XMLHttpRequest()
     http.open('GET', '/api/config')
     http.send()
