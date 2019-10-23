@@ -35,7 +35,7 @@ module.exports = {
 - go to http://localhost:3000
 - thats all, you should see all the Pokemon tokens that eth.accounts[1] you previously imported owns
 
-![browser dapp sample](http://i67.tinypic.com/2qsmavk.png)
+![browser dapp sample](appscreen.png)
 
 ## System used
 > System used during the development of the project
